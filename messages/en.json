@@ -1,0 +1,14 @@
+{
+  "Index": {
+    "welcome": "Welcome to Next.js with Supabase and i18n",
+    "email": "Email",
+    "password": "Password",
+    "signUp": "Sign Up",
+    "signIn": "Sign In"
+  },
+  "Dashboard": {
+    "welcome": "Welcome, {email}!",
+    "signOut": "Sign Out",
+    "loading": "Loading..."
+  }
+}
